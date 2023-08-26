@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689698499 source:c:\users\hp\documents\amit_c\odd\task_even\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1689698522 source:c:\users\hp\documents\amit_c\odd_even\task_even\main.c
+	<stdio.h>
+	<stdlib.h>
+

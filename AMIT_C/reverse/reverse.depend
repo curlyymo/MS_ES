@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691417262 source:c:\users\hp\documents\amit_c\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

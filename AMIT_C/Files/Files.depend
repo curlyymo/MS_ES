@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1690630396 source:c:\users\hp\documents\amit_c\files\file_a.c
+	"file_a.h"
+
+1690629503 c:\users\hp\documents\amit_c\files\file_a.h
+	"file_b.h"
+	"file_c.h"
+	"file_d.h"
+	<stdio.h>
+
+1690630181 c:\users\hp\documents\amit_c\files\file_b.h
+	<stdlib.h>
+
+1690630181 c:\users\hp\documents\amit_c\files\file_c.h
+	<stdlib.h>
+
+1690630181 c:\users\hp\documents\amit_c\files\file_d.h
+	<stdlib.h>
+
+1690632103 source:c:\users\hp\documents\amit_c\files\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690632118 source:c:\users\hp\documents\amit_c\files\file_b.c
+	"file_b.h"
+
+1690630396 source:c:\users\hp\documents\amit_c\files\file_c.c
+	"file_c.h"
+
+1690630396 source:c:\users\hp\documents\amit_c\files\file_d.c
+	"file_d.h"
+

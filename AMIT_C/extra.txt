@@ -1,0 +1,4 @@
+  
+   float division = (num_2 != 0) ? ((float)num_1 / num_2) : 0;
+   int remainder = (num_2 != 0) ? (num_1 % num_2) : 0;
+   

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689602905 source:c:\users\hp\documents\amit_c\task\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

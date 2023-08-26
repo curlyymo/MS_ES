@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691028190 source:c:\users\hp\documents\amit_c\fobi\main.c
+	<stdio.h>
+	<stdlib.h>
+

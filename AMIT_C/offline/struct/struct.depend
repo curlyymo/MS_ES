@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691244684 source:c:\users\hp\documents\amit_c\offline\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
